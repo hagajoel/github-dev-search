@@ -2,7 +2,7 @@
 
 This is a search browser to find a github user.
 
-Live preview [here](https://github-dev-search-app.netlify.app/)
+Live preview [here](https://github-devfinder-app.netlify.app)
 
 ## How to use it?
 
